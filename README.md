@@ -1,2 +1,15 @@
 # bilibili-Blacklist
-With Tampermonkey to let some ups not appear in front of me.
+我已经厌倦了不断刷到低质量视频的日子,
+
+是时候改变它了。
+
+那就拉黑那些UP吧。
+
+---
+
+通过这个Tampermonkey脚本，你可以在刷到某些不喜欢的视频时将其作者拉入黑名单。
+
+然后你就再也刷不到他的视频了。
+
+*仅作用于首页换一换部分
+
